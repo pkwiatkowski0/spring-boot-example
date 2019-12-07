@@ -1,5 +1,6 @@
 package start;
 
+import org.junit.Ignore;
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
